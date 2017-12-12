@@ -14,7 +14,7 @@ package com.ix.devops.travis;
 			return a / b;
 		}
 		public static final void main(String[] args) {
-			System.out.println("Hello world?");
+			System.out.println("Test Travis");
 		}
 	}
 

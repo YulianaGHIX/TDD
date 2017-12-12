@@ -1,7 +1,8 @@
 language: java
+sudo: false
 jdk:
- - oraclejdk8
- notifications:
+- oraclejdk8
+notifications:
   slack:
     rooms:
       - ixagency:RjIRqnnvu8FYzvydyt7cxZ2T#banorte-rentabilidad
